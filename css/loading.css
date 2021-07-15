@@ -1,0 +1,135 @@
+body {
+  overflow-y: hidden;
+  background-color: #000;
+  -webkit-user-select:none; 
+  -moz-user-select:none; 
+  -ms-user-select:none; 
+  user-select:none;
+}
+
+/* loading */
+.loadingBox {
+  background: url(../images/loading/bg.jpg) no-repeat center 0 / cover;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: none;
+  position: relative;
+  z-index: 2;
+  cursor: url(../spriteSheet/mouse.png), auto;
+}
+
+.loadingBox-container {
+  width: 14rem;
+  height: 2.7rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loadingBox-teamlogo {
+  display: block;
+  width: 0rem;
+  height: 1.4rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.loadingBox-teamlogo::before {
+  content: "";
+  display: block;
+  background: url(../images/loading/teamLogo.png) no-repeat left 0 / 11.11rem 1.4rem;
+  width: 11.11rem;
+  height: 1.4rem;
+  position: absolute;
+  top: 0;
+  left: 7rem;
+  margin-left: -5.555rem;
+}
+
+.loadingBox-lucia {
+  display: block;
+  background-image: url(../images/loading/lucia-ani.png);
+  background-repeat: no-repeat;
+  background-size: 11rem 1.1rem;
+  background-position: 0 0;
+  width: 1.1rem;
+  height: 1.1rem;
+  position: absolute;
+  bottom: 0.08rem;
+  left: 0rem;
+  transform: translateX(-1.1rem);
+  animation: luciaAni steps(10) 0.5s infinite;
+}
+
+@keyframes luciaAni {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: -11rem 0;
+  }
+}
+
+.loadingBox-line {
+  display: block;
+  width: 0;
+  height: 0.08rem;
+  position: absolute;
+  bottom: 0rem;
+  left: 0rem;
+  overflow: hidden;
+}
+
+.loadingBox-line::before {
+  content: "";
+  display: block;
+  width: 14rem;
+  height: 0.08rem;
+  background-color: #fff;
+}
+
+/* readyMode */
+.readyMode {
+  position: absolute;
+  top: 0;
+  z-index: 3;
+  background-color: #000;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 0.5s;
+  cursor: url(../spriteSheet/mouse.png), auto;
+}
+.readyMode.cur {
+  opacity: 1;
+}
+
+/* refresh */
+.refresh {
+  display: none;
+  width: 4rem;
+  height: 2rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #8afcef;
+  border: 1px solid #d1ffe7;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 2rem;
+  font-size: 0.5rem;
+  font-weight: 1000;
+  color: #000;
+  transition: background 0.3s;
+  cursor: pointer;
+  z-index: 4;
+  cursor: url(../spriteSheet/mouse.png), auto;
+}
+
+.refresh:hover{
+  background-color: #d1ffe7;
+}

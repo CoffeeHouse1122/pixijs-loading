@@ -1,0 +1,343 @@
+{"frames": {
+
+"韩国官网动画-待机2_00000.png":
+{
+	"frame": {"x":1,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00004.png":
+{
+	"frame": {"x":632,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00008.png":
+{
+	"frame": {"x":1263,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00012.png":
+{
+	"frame": {"x":1894,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00016.png":
+{
+	"frame": {"x":2525,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00020.png":
+{
+	"frame": {"x":3156,"y":1,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00024.png":
+{
+	"frame": {"x":1,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00028.png":
+{
+	"frame": {"x":632,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00032.png":
+{
+	"frame": {"x":1263,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00036.png":
+{
+	"frame": {"x":1894,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00040.png":
+{
+	"frame": {"x":2525,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00044.png":
+{
+	"frame": {"x":3156,"y":428,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00048.png":
+{
+	"frame": {"x":1,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00052.png":
+{
+	"frame": {"x":632,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00056.png":
+{
+	"frame": {"x":1263,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00060.png":
+{
+	"frame": {"x":1894,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00064.png":
+{
+	"frame": {"x":2525,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00068.png":
+{
+	"frame": {"x":3156,"y":855,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00072.png":
+{
+	"frame": {"x":1,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00076.png":
+{
+	"frame": {"x":632,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00080.png":
+{
+	"frame": {"x":1263,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00084.png":
+{
+	"frame": {"x":1894,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00088.png":
+{
+	"frame": {"x":2525,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00092.png":
+{
+	"frame": {"x":3156,"y":1282,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00096.png":
+{
+	"frame": {"x":1,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00100.png":
+{
+	"frame": {"x":632,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00104.png":
+{
+	"frame": {"x":1263,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00108.png":
+{
+	"frame": {"x":1894,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00112.png":
+{
+	"frame": {"x":2525,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00116.png":
+{
+	"frame": {"x":3156,"y":1709,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00120.png":
+{
+	"frame": {"x":1,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00124.png":
+{
+	"frame": {"x":632,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00128.png":
+{
+	"frame": {"x":1263,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00132.png":
+{
+	"frame": {"x":1894,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00136.png":
+{
+	"frame": {"x":2525,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00140.png":
+{
+	"frame": {"x":3156,"y":2136,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00144.png":
+{
+	"frame": {"x":1,"y":2563,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00148.png":
+{
+	"frame": {"x":632,"y":2563,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00152.png":
+{
+	"frame": {"x":1263,"y":2563,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00156.png":
+{
+	"frame": {"x":1894,"y":2563,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+},
+"韩国官网动画-待机2_00160.png":
+{
+	"frame": {"x":2525,"y":2563,"w":425,"h":629},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":71,"w":425,"h":629},
+	"sourceSize": {"w":550,"h":700}
+}},
+"animations": {
+	"韩国官网动画-待机2": ["韩国官网动画-待机2_00000.png","韩国官网动画-待机2_00004.png","韩国官网动画-待机2_00008.png","韩国官网动画-待机2_00012.png","韩国官网动画-待机2_00016.png","韩国官网动画-待机2_00020.png","韩国官网动画-待机2_00024.png","韩国官网动画-待机2_00028.png","韩国官网动画-待机2_00032.png","韩国官网动画-待机2_00036.png","韩国官网动画-待机2_00040.png","韩国官网动画-待机2_00044.png","韩国官网动画-待机2_00048.png","韩国官网动画-待机2_00052.png","韩国官网动画-待机2_00056.png","韩国官网动画-待机2_00060.png","韩国官网动画-待机2_00064.png","韩国官网动画-待机2_00068.png","韩国官网动画-待机2_00072.png","韩国官网动画-待机2_00076.png","韩国官网动画-待机2_00080.png","韩国官网动画-待机2_00084.png","韩国官网动画-待机2_00088.png","韩国官网动画-待机2_00092.png","韩国官网动画-待机2_00096.png","韩国官网动画-待机2_00100.png","韩国官网动画-待机2_00104.png","韩国官网动画-待机2_00108.png","韩国官网动画-待机2_00112.png","韩国官网动画-待机2_00116.png","韩国官网动画-待机2_00120.png","韩国官网动画-待机2_00124.png","韩国官网动画-待机2_00128.png","韩国官网动画-待机2_00132.png","韩国官网动画-待机2_00136.png","韩国官网动画-待机2_00140.png","韩国官网动画-待机2_00144.png","韩国官网动画-待机2_00148.png","韩国官网动画-待机2_00152.png","韩国官网动画-待机2_00156.png","韩国官网动画-待机2_00160.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "await-2.png",
+	"format": "RGBA8888",
+	"size": {"w":3786,"h":2989},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6228cd805f4b0c88ce2bc8f8ff55e844:dddb352b8db319650008daee19ec8d64:7daf221297154f3332d946cdb12b7369$"
+}
+}
