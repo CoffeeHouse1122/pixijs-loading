@@ -12,7 +12,7 @@
 
 ## 预览地址
 
-<a href="#" target="blank">################</a>
+<a href="https://coffeehouse1122.github.io/pixijs-loading/" target="blank">https://coffeehouse1122.github.io/pixijs-loading/</a>
 
 ## 项目依赖
 
