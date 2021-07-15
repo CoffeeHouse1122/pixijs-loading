@@ -85,7 +85,7 @@
       mouseApp.renderer.resize(window.innerWidth, window.innerHeight);
     })
 
-    let requestLink = location.origin;
+    let requestLink = location.href;
 
     let srcArr = [
       bgSrc,
